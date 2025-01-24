@@ -12,6 +12,7 @@ Farming Simulator 25 animation node scripts for use with placeable or vehicle sp
 
 ## Usage
 These scripts are free for use in any Farming Simulator 25 **Map** , **Placeable** or **Vehicle** mods for both ***Private*** and ***Public*** release.  
+
 Copying or removing any part of the code contained within these scripts for external use without written permission from GtX | Andy is prohibited.
 
 ## Publishing
